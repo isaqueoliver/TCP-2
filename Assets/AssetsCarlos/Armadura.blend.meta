@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 52252153d26745b47b7f75b6f055190d
+timeCreated: 1528254736
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chest_Armor
+    100004: Cube
+    100006: Cube_001
+    100008: Cube_002
+    100010: Cube_003
+    100012: Cube_004
+    100014: Cube_005
+    100016: Cube_006
+    100018: Cube_007
+    100020: Cube_008
+    100022: Cube_009
+    100024: Cube_010
+    100026: Cube_011
+    100028: Cube_012
+    100030: Cylinder_001
+    100032: L_ALmostHand
+    100034: L_ALmostHand_001
+    100036: L_Arm
+    100038: L_Arm_001
+    100040: L_Shoulder
+    100042: L_Shoulder_001
+    100044: Leg_Armor
+    100046: thigh_Armor
+    400000: //RootNode
+    400002: Chest_Armor
+    400004: Cube
+    400006: Cube_001
+    400008: Cube_002
+    400010: Cube_003
+    400012: Cube_004
+    400014: Cube_005
+    400016: Cube_006
+    400018: Cube_007
+    400020: Cube_008
+    400022: Cube_009
+    400024: Cube_010
+    400026: Cube_011
+    400028: Cube_012
+    400030: Cylinder_001
+    400032: L_ALmostHand
+    400034: L_ALmostHand_001
+    400036: L_Arm
+    400038: L_Arm_001
+    400040: L_Shoulder
+    400042: L_Shoulder_001
+    400044: Leg_Armor
+    400046: thigh_Armor
+    2100000: Material_021
+    2100002: Material_008
+    2100004: Material_012
+    2100006: Material_015
+    2100008: Material_007
+    2100010: Material_017
+    2100012: Material_018__Capacete_armadura_png
+    2100014: Material_013
+    2100016: Material_014
+    2100018: Material_010
+    2100020: Material_009
+    2100022: Material_022
+    2100024: Material
+    2100026: Material_006
+    2100028: Material_011
+    2100030: Material_001
+    2100032: Material_003
+    2100034: Material_004
+    2100036: Material_020
+    2100038: Material_019
+    2100040: Material_016
+    2100042: Material_002
+    2300000: Chest_Armor
+    2300002: Cube
+    2300004: Cube_001
+    2300006: Cube_002
+    2300008: Cube_003
+    2300010: Cube_004
+    2300012: Cube_005
+    2300014: Cube_006
+    2300016: Cube_007
+    2300018: Cube_008
+    2300020: Cube_009
+    2300022: Cube_010
+    2300024: Cube_011
+    2300026: Cube_012
+    2300028: Cylinder_001
+    2300030: L_ALmostHand
+    2300032: L_ALmostHand_001
+    2300034: L_Arm
+    2300036: L_Arm_001
+    2300038: L_Shoulder
+    2300040: L_Shoulder_001
+    2300042: Leg_Armor
+    2300044: thigh_Armor
+    3300000: Chest_Armor
+    3300002: Cube
+    3300004: Cube_001
+    3300006: Cube_002
+    3300008: Cube_003
+    3300010: Cube_004
+    3300012: Cube_005
+    3300014: Cube_006
+    3300016: Cube_007
+    3300018: Cube_008
+    3300020: Cube_009
+    3300022: Cube_010
+    3300024: Cube_011
+    3300026: Cube_012
+    3300028: Cylinder_001
+    3300030: L_ALmostHand
+    3300032: L_ALmostHand_001
+    3300034: L_Arm
+    3300036: L_Arm_001
+    3300038: L_Shoulder
+    3300040: L_Shoulder_001
+    3300042: Leg_Armor
+    3300044: thigh_Armor
+    4300000: Cube_012
+    4300002: L_ALmostHand_001
+    4300004: Cube_011
+    4300006: Cube_010
+    4300008: L_Arm_001
+    4300010: Cube_007
+    4300012: Cube_006
+    4300014: Cube_005
+    4300016: Cube_004
+    4300018: Cube_002
+    4300020: Cube_003
+    4300022: Cube_001
+    4300024: Cube
+    4300026: L_Shoulder
+    4300028: L_Shoulder_001
+    4300030: Chest_Armor
+    4300032: L_Arm
+    4300034: Cube_008
+    4300036: Cube_009
+    4300038: thigh_Armor
+    4300040: Leg_Armor
+    4300042: L_ALmostHand
+    4300044: Cylinder_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.28
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
